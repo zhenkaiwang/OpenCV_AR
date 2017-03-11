@@ -19,6 +19,7 @@ Running the executable:
     Where images/lena.jpg is the source image that you want to detect. You can use your own image to test.
 
 Code Explanation and Design choice:
+
 	1. Initialzation:
 
 		string CalibFile = "TUM1.yaml";
