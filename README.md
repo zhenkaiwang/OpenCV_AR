@@ -1,8 +1,6 @@
-
-%--------------------------------------------------------------------------
 Youtube Video Demo
 	https://youtu.be/kQpDGp75e78
-%--------------------------------------------------------------------------
+
 Compiling and building from source in Linux environment:
 
     In a terminal, go to the root directory of the folder and run make:
@@ -12,7 +10,6 @@ Compiling and building from source in Linux environment:
 
     An executable file AugmentedReality will be generated in the bin folder.
 
-%--------------------------------------------------------------------------
 Running the executable:
 
     In a terminal, at the root directory:
@@ -21,7 +18,6 @@ Running the executable:
 
     Where images/lena.jpg is the source image that you want to detect. You can use your own image to test.
 
-%--------------------------------------------------------------------------
 Code Explanation and Design choice:
 	1. Initialzation:
 
